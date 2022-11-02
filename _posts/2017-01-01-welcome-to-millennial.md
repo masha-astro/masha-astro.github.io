@@ -4,7 +4,7 @@ title: "Biography"
 author: "Mariia Demianenko"
 categories: bio
 tags: [bio,sample]
-image: pIMG-4791.jpg
+image: milky.jpg
 ---
 
 I was born in Ivanovo, Russia.
